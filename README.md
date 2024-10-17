@@ -3,7 +3,8 @@
 
 
 
-<h3 align="center">Counter</h3>
+<h2 align="center">Counter</h2>
+<hr>
 
 ### 1 Create Component in Counter.jsx File
 ```js
@@ -48,8 +49,8 @@ import Counter from './Counter'
 
 
 
-<h3 align="center">Display Data From Fetch API</h3>
-
+<h2 align="center">Display Data From Fetch API</h2>
+<hr>
 
 
 ### 1. Create a File name will be Friends.jsx then write Bellow code in This file
