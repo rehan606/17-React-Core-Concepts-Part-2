@@ -75,12 +75,12 @@ export default function Friends (){
     )
 }
 ```
-### 2 import Counter Component in App.jsx 
+### 2 import Friends Component in App.jsx 
 ```js
 import Friends from './Friends'
 ```
 
-### 3 call Component in App.jsx Function
+### 3 Call Friends Component in App.jsx Function
 ```js
 
     // Call Component
